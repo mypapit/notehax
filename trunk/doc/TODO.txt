@@ -1,0 +1,9 @@
+TODO List
+
+
+2009-02-01 
+-------------
+- support bluetooth
+- optimize for size
+- uses proguard build-script to build for other phone platforms
+- multi-language support

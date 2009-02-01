@@ -1,0 +1,17 @@
+ChangeLog file for NoteHax
+
+2009-02-01 NoteHax 1.0
+-----------------------
+- fixed a lot of bugs
+- clean up the code
+- optimized for speed
+- fix sms sending code
+- bluetooh still not supported
+
+
+
+
+2009-01-28 NoteHax-pre
+----------------------
+- first pre-release
+- bluetooth not supported
